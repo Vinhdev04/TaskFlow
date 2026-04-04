@@ -78,5 +78,4 @@ npm install
 npm run dev
 ```
 
----
-*Dự án được khởi tạo và cấu trúc bởi AI Assistant.*
+
