@@ -1,9 +1,16 @@
 :root {
-  --primary-color: #4F46E5;
-  --primary-hover: #4338CA;
-  --bg-main: #F9FAFB;
-  --text-dark: #111827;
-  --text-gray: #6B7280;
-  --border-color: #E5E7EB;
-  --white: #FFFFFF;
+  /* White Colors */
+  --white-pure: #FFFFFF;
+  --white-soft: #F9FAFB;
+  --white-border: #E5E7EB;
+
+  /* Blue Colors */
+  --blue-primary: #4F46E5;
+  --blue-hover: #4338CA;
+  --blue-light: #EEF2FF;
+  --blue-deep: #1E1B4B;
+
+  /* Gray/Neutral (vẫn giữ một ít để chữ dễ đọc) */
+  --text-primary: #111827;
+  --text-secondary: #6B7280;
 }
